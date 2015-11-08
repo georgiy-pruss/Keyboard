@@ -1,0 +1,27 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]
+"Scancode Map"=hex:00,00,00,00,00,00,00,00,06,00,00,00,36,00,3a,00,47,e0,36,00,53,e0,1d,e0,1c,00,5c,e0,0e,00,56,00,00,00,00,00
+
+; Caps   --> RShift
+; RShift --> Home
+; RCtrl  --> Del
+; RWin   --> Enter
+; Left\| --> BkSpc
+
+; NumLk   E0 45
+; Pause   45
+; Break   E0 46 (Ctrl+Pause)
+; Caps    3A
+; Ins     E0 52
+; Delete  E0 53
+; Home    E0 47
+; RShift  36
+; RWin    E0 5C
+; RCtrl   E0 1D
+; Left\|  56
+; BkSpc   0E
+; Enter   1C
+
+; http://vim.wikia.com/wiki/Map_caps_lock_to_escape_in_Windows
+; http://www.computer-engineering.org/ps2keyboard/scancodes1.html
