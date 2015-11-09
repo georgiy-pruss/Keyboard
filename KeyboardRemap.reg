@@ -23,6 +23,7 @@ Windows Registry Editor Version 5.00
 ; RShift  36
 ; RWin    E0 5C
 ; RCtrl   E0 1D
+; Menu    E0 5D
 
 ; http://vim.wikia.com/wiki/Map_caps_lock_to_escape_in_Windows
 ; http://www.computer-engineering.org/ps2keyboard/scancodes1.html
