@@ -1,14 +1,13 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]
-"Scancode Map"=hex:00,00,00,00,00,00,00,00,05,00,00,00,0e,00,3a,00,1d,e0,56,00,53,e0,5c,e0,47,e0,1d,e0,00,00,00,00
+"Scancode Map"=hex:00,00,00,00,00,00,00,00,06,00,00,00,0e,00,3a,00,1d,e0,56,00,47,e0,36,00,53,e0,1d,e0,36,00,5c,e0,00,00,00,00
 
-; CapsLk --> Backspace  0E 00 3A 00  
-; Left\\| --> RCtrl      1D E0 56 00  
-; RWin   --> Delete     53 E0 5C E0  
-; RCtrl  --> Home       47 E0 1D E0
-; Menu   --> --//--  
-; RShift --> --//--  
+; CapsLk --> Backspace  0E 00 3A 00
+; Left\\| --> RCtrl      1D E0 56 00
+; RShift --> Home       47 E0 36 00
+; RCtrl  --> Delete     53 E0 1D E0
+; RWin   --> RShift     36 00 5C E0
 
 ; NumLk   E0 45
 ; Pause   45
