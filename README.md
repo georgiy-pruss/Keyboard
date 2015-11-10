@@ -9,6 +9,8 @@ kb_EN214.klc        english layout, my own, the most optimal
 kb6016layout.png    english layout, visual  
 
 KeyboardRemap.reg   move useful keys to the lowest row  
+Hm-hm, not sure if it's final yet. Maybe it's worth to move BkSpc and Enter to the lowest row (again).  
+Now Ctrl and Alt are under the thumbs. I'll try to use it for some time and see...
 
 ![KB-6016-RUA-modified](https://github.com/georgiy-pruss/Keyboard/blob/master/KB-6016-RUA-mod.jpg)
 
