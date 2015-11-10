@@ -1,0 +1,5 @@
+CapsLk --> RAlt
+Left\| --> BkSpc
+RShift --> Home
+RCtrl  --> Delete
+RAlt   --> Enter
