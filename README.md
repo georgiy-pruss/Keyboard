@@ -10,7 +10,7 @@ kb6016layout.png .......... english layout image
 
 keyboard-remap.txt ....... definition of remapping  
 keyboard-remap.reg ...... reg file, just double-click it  
-mkmap.py .................... keyboard-remap.txt --> keyboard-remap.reg  
+mkmap.py ..................... keyboard-remap.txt --> keyboard-remap.reg  
 scancodes1.html ........... backup of scancodes from www.computer-engineering.org  
 
 The image below is a bit outdated, will be updated...  
