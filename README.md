@@ -21,12 +21,12 @@ In this keyboard, not all three-key combinations work. For example LShift+CapsLk
 
 So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets):
 
-♥ßäöü |789* șț  [ґñ]  
+<pre>♥ßäöü |789* șț  [ґñ]  
 —§!^~ &456- ăâî [іїє]  
 ←→@() =123+ ,  
-«»©%# $0_./  
+«»©%# $0_./</pre>  
 
-☺ÞÄÖÜ ₴√∞ × ȘȚ  [ҐÑ]  
-–µ♀♂≈ £¼½¾– ĂÂÎ [ІЇЄ]  
-↵↔¤≤≥ ≡ⁿ²³± •  
-‹›™¢≠ €°…·÷  
+  ☺ÞÄÖÜ ₴√∞ × ȘȚ  [ҐÑ]  
+  –µ♀♂≈ £¼½¾– ĂÂÎ [ІЇЄ]  
+  ↵↔¤≤≥ ≡ⁿ²³± •  
+  ‹›™¢≠ €°…·÷  
