@@ -17,3 +17,4 @@ The image below is a bit outdated, will be updated...
 
 ![KB-6016-RUA-modified](https://github.com/georgiy-pruss/Keyboard/blob/master/KB-6016-RUA-mod.jpg)
 
+In this keyboard, not all three-key combinations work. For example LShift+CapsLk+F1,2,W,S,X,\\ don't produce any code. That is they must share the same wire inside, I think. RShift+CapsLk+ the same keys work ok.
