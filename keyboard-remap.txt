@@ -1,6 +1,6 @@
 CapsLk --> RAlt   # easier to enter all AltGr set of characters
-Left\| --> BkSpc  # this and the next one are really superb
-RAlt   --> Enter  # they are both right under the thumbs
+Left\| --> BkSpc  # this and the next one are reall hit!
+RAlt   --> Enter  # they are both located right under your thumbs. always.
 RShift --> Home
 RCtrl  --> Delete
 RWin   --> RShift # e.g. to press Shift+Del, Shift+movements with one hand
