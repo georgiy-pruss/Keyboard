@@ -19,7 +19,7 @@ The image below is a bit outdated, will be updated...
 
 In this keyboard, not all three-key combinations work. For example LShift+CapsLk+F1,2,W,S,X,\\ don't produce any code. That is they must share the same wire inside, I think... Ah, aha... It's keyboard ghosting. So it's good again that I returned RShift (to RWin key).
 
-So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets):
+So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr+Space = nbsp):
 
 <pre>♥ßäöü |789* șț  [ґñ]  
 —§!^~ &456- ăâî [іїє]  
