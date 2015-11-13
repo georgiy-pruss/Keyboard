@@ -13,7 +13,7 @@ keyboard-remap.reg ...... reg file, just double-click it
 mkmap.py ..................... keyboard-remap.txt --> keyboard-remap.reg  
 scancodes1.html ........... backup of scancodes from www.computer-engineering.org  
 
-The image below is a bit outdated, will be updated...  
+The image below is edited to reflect the actual key mapping and layout. Physically no key were harmed :)
 
 ![KB-6016-RUA-modified](https://github.com/georgiy-pruss/Keyboard/blob/master/KB-6016-RUA-mod.jpg)
 
