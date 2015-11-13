@@ -30,3 +30,5 @@ So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets):
 –µ♀♂≈ £¼½¾– ĂÂÎ [ІЇЄ]  
 ↵↔¤≤≥ ≡ⁿ²³± •  
 ‹›™¢≠ €°…·÷</pre>
+
+The aim is to keep away from the upper row... will see how it works...
