@@ -23,12 +23,12 @@ So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr
 
 <pre>♥ßäöü |789* șț  [ґñ]  
 —§!^~ &456- ăâî [іїє]  
-←→@() =123+ ,  
-«»©%# $0_./</pre>  
+←→#() =123+ ,  
+«»©%@ $0_./</pre>  
 
 <pre>ÞβÄÖÜ ₴√∞ə× ȘȚ  [ҐÑ]  
 –µ♀♂≈ £¼½¾– ĂÂÎ [ІЇЄ]  
-↵↔¤≤≥ ≡ⁿ²³± •  
-‹›™¢≠ €°…·÷</pre>
+↵↔≠≤≥ ≡ⁿ²³± •  
+‹›™¢¤ €°…·÷</pre>
 
 The aim is to keep away from the upper row... will see how it works...
