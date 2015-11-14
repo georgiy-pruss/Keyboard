@@ -22,15 +22,15 @@ In this keyboard, not all three-key combinations work. For example LShift+CapsLk
 So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr+Space = nbsp):
 
 <pre>́  ←→«»… ™©°—· 'π   ['ґ] (́  = &amp;#769;≡U+03) 
-  |&?:; /789* []\  [іїє]
+  |&?:; /789* []\\  [іїє]
   <>()_ =456- "
   ^@#$% 0123+</pre>
 
-<pre>♥ ↑↵‹›§ ♂♀ⁿ–• Þß   [ÞҐ]   (– = ndash, not sure about ↵µ′″β‹›, they are not so important...)
+<pre>♥ ↑↵‹›§ ♂♀ⁿ–• Þß   [ÞҐ]  (– = ndash, not sure about ↵µ′″β‹›, they are not so important...)
   ↓µ′″β ÷√∞ə× äöü  [ІЇЄ] [áéóý instead of µ′″β]
   ≡ ≤≥≠ ≈¼½¾– ¬          (– = real minus, ¬ = optional hyphen)
   ¥¤£€¢ ₴¹²³±</pre>
 
-<!-- șțў!~ăâî,.♥ÄÖÜȘȚÁÓÉЎĂÂÎ -->
+<!-- !,. good as is, ~`{}\[] no need in RU, șțăâîȘȚĂÂÎ ÄÖÜ ÁÓÉ ўЎ -->
 
 The aim is to keep away from the upper row... will see how it works...
