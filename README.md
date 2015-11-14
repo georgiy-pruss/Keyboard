@@ -17,11 +17,11 @@ The image below is edited to reflect the actual key mapping and layout. Physical
 
 ![KB-6016-RUA-modified](https://github.com/georgiy-pruss/Keyboard/blob/master/KB-6016-RUA-mod.jpg)
 
-In this keyboard, not all three-key combinations work. For example LShift+CapsLk+F1,2,W,S,X,\\ don't produce any code. That is they must share the same wire inside, I think... Ah, aha... It's keyboard ghosting. So it's good again that I returned RShift (to RWin key).
+In this keyboard, not all three-key combinations work. For example LShift+CapsLk+F1,2,W,S,X,\\ don't produce any code. That is they must share the same wire inside, I think... Ah, aha... It's keyboard ghosting. So it's good again that I returned RShift (to RWin key). ...Well, 's' stays mute with CapsLk and any of my shifts. So be it.
 
 So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr+Space = nbsp):
 
-<pre>Þ §ßäöü |789* șț  [́  §ýáóé ... ґў  ́  = &amp;#769;≡U+0301  ]  
+<pre>Þ §ßäöü |789* șț  [́  §ýáóé ... ґў  ́  = &amp;#769;≡U+0301]  
   °—!^~ &456- ăâî             [іїє]  
   ←→#() =123+ ,  
   «»©%@ $0_./</pre>  
