@@ -26,7 +26,7 @@ So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr
   ←→#() =123+ ,  
   «»©%@ $0_./</pre>  
 
-<pre>♥ µβÄÖÜ ₴√∞ə× ȘȚ  [µβÁÓÉ ... ҐÑ ]  
+<pre>♥ µβÄÖÜ ₴√∞ə× ȘȚ  [µβÁÓÉ ... ҐЎ ]  
   π–♀♂≈ £¼½¾– ĂÂÎ           [ІЇЄ]  
   ↑ ≠≤≥ ≡¹²³± •  
   ↓↵™¢¤ €ⁿ…·÷</pre>
