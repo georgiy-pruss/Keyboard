@@ -21,7 +21,7 @@ In this keyboard, not all three-key combinations work. For example LShift+CapsLk
 
 So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr+Space = nbsp):
 
-<pre>Þ §ßäöü |789* șț  [́  §ýáóé ... ґў  ́  = &#769=U+0301  ]  
+<pre>Þ §ßäöü |789* șț  [́  §ýáóé ... ґў  ́  = &amp;#769;≡U+0301  ]  
   °—!^~ &456- ăâî             [іїє]  
   ←→#() =123+ ,  
   «»©%@ $0_./</pre>  
