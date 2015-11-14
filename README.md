@@ -26,9 +26,9 @@ So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr
   <>()_ =456- "
   ^@#$% 0123+</pre>
 
-<pre>♥ ↑↵‹›§ ♂♀ⁿ–• Þß   [ÞҐ]
+<pre>♥ ↑↵‹›§ ♂♀ⁿ–• Þß   [ÞҐ]   (– = ndash, not sure about ↵µ′″β‹›, they are not so important...)
   ↓µ′″β ÷√∞ə× äöü  [ІЇЄ] [áéóý instead of µ′″β]
-  ≡ ≤≥≠ ≈¼½¾– ¬             (– = real minus, ¬ = optional hyphen)
+  ≡ ≤≥≠ ≈¼½¾– ¬          (– = real minus, ¬ = optional hyphen)
   ¥¤£€¢ ₴¹²³±</pre>
 
 <!-- șțў!~ăâî,.♥ÄÖÜȘȚÁÓÉЎĂÂÎ -->
