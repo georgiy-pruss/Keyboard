@@ -21,14 +21,14 @@ In this keyboard, not all three-key combinations work. For example LShift+CapsLk
 
 So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr+Space = nbsp):
 
-<pre>♥ßäöü |789* șț  [ґñ]  
-—§!^~ &456- ăâî [іїє]  
-←→#() =123+ ,  
-«»©%@ $0_./</pre>  
+<pre>Þ §ßäöü |789* șț  [́  §ýáóé ... ґў]  
+  °—!^~ &456- ăâî            [іїє]  
+  ←→#() =123+ ,  
+  «»©%@ $0_./</pre>  
 
-<pre>ÞβÄÖÜ ₴√∞ə× ȘȚ  [ҐÑ]  
-–µ♀♂≈ £¼½¾– ĂÂÎ [ІЇЄ]  
-↵↔≠≤≥ ≡ⁿ²³± •  
-‹›™¢¤ €°…·÷</pre>
+<pre>♥ µβÄÖÜ ₴√∞ə× ȘȚ  [µβÁÓÉ ... ҐÑ]  
+  π–♀♂≈ £¼½¾– ĂÂÎ          [ІЇЄ]  
+  ↑ ≠≤≥ ≡¹²³± •  
+  ↓↵™¢¤ €ⁿ…·÷</pre>
 
 The aim is to keep away from the upper row... will see how it works...
