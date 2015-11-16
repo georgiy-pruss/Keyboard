@@ -4,8 +4,8 @@ All public stuff related to keyboards
 KB-6016-RUA.jpg ........... gembird keyboard  
 KB-6016-RUA-mod.jpg ... gembird keyboard after KeyboardRemap.reg  
 
-kb_RU204.klc ................ russian layout, quite normal  
-kb_EN214.klc ................ english layout, my own, the most optimal (made with genetic algorithms!)  
+CYR2015?.klc ................ cyrillic (russian) layout, quite normal  
+LAT2015?.klc ................ latin (english) layout, my own, the most optimal (made with genetic algorithms)  
 kb6016layout.png .......... english layout image  
 
 keyboard-remap.txt ....... definition of remapping  
@@ -21,14 +21,14 @@ In this keyboard, not all three-key combinations work. For example LShift+CapsLk
 
 So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr+Space = nbsp):
 
-<pre>´ ←→«»… ·—°©™ 'π   ['ґ] (´ = &amp;#769;≡U+0301) 
+<pre>´ ←→«»… ·—°™© 'π   ['ґ] (´ = &amp;#769;≡U+0301) 
   |&?:; /789* []\  [іїє]
   <>()_ =456- "
   ^@#$% 0123+</pre>
 
 <pre>♥ ↑↵‹›§ •–ⁿ♂♀ Þß   [ÞҐ]  (– = ndash, not sure about ↵µ′″β‹›, they are not so important...)
   ↓µ′″β ÷√∞ə× äöü  [ІЇЄ] [áéóý instead of µ′″β]
-  ≡ ≤≥≠ ≈¼½¾– ¬          (– = real minus, ¬ = optional hyphen)
+  ≡ ≤≥≠ ≈¼½¾– ☎          (– = real minus)
   ¥¤£€¢ ₴¹²³±</pre>
 
 <!-- !,. good as is, ~`{}\[] no need in RU, șțăâîȘȚĂÂÎ ÄÖÜ ÁÓÉ ўЎ -->
