@@ -4,10 +4,10 @@ All public stuff related to keyboards
 KB-6016-RUA.jpg ........... gembird keyboard  
 KB-6016-RUA-mod.jpg ... gembird keyboard after KeyboardRemap.reg
 
-K_LAT2015*.klc ................ latin (english) layout, my own, the most optimal (made with genetic algorithms)  
-K_CYR2015*.klc ................ cyrillic (russian) layout, quite normal  
-K_LAT2015*.png ................ english layout image  
-K_CYR2015*.png ................ cyrillic layout image  
+K_LAT2015B.klc ................ latin (english) layout, my own, the most optimal (made with genetic algorithms)  
+K_CYR2015B.klc ................ cyrillic (russian) layout, quite normal  
+K_LAT2015B.png ................ english layout image  
+K_CYR2015B.png ................ cyrillic layout image  
 
 keyboard-remap.txt ....... definition of remapping  
 keyboard-remap.reg ...... reg file, just double-click it    
