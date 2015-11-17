@@ -1,17 +1,18 @@
 # Keyboard
-All public stuff related to keyboards  
+All public stuff related to keyboards
 
-KB-6016-RUA.jpg ........... gembird keyboard  
-KB-6016-RUA-mod.jpg ... gembird keyboard after KeyboardRemap.reg  
+KB-6016-RUA.jpg ........... gembird keyboard
+KB-6016-RUA-mod.jpg ... gembird keyboard after KeyboardRemap.reg
 
-CYR2015?.klc ................ cyrillic (russian) layout, quite normal  
-LAT2015?.klc ................ latin (english) layout, my own, the most optimal (made with genetic algorithms)  
-kb6016layout.png .......... english layout image  
+K_LAT2015*.klc ................ latin (english) layout, my own, the most optimal (made with genetic algorithms)
+K_CYR2015*.klc ................ cyrillic (russian) layout, quite normal
+K_LAT2015*.png ................ english layout image
+K_CYR2015*.png ................ cyrillic layout image
 
-keyboard-remap.txt ....... definition of remapping  
-keyboard-remap.reg ...... reg file, just double-click it  
-mkmap.py ..................... keyboard-remap.txt --> keyboard-remap.reg  
-scancodes1.html ........... backup of scancodes from www.computer-engineering.org  
+keyboard-remap.txt ....... definition of remapping
+keyboard-remap.reg ...... reg file, just double-click it
+mkmap.py ..................... keyboard-remap.txt --> keyboard-remap.reg
+scancodes1.html ........... backup of scancodes from www.computer-engineering.org
 
 The image below is edited to reflect the actual key mapping and layout. Physically no key were harmed :)
 
@@ -21,7 +22,7 @@ In this keyboard, not all three-key combinations work. For example LShift+CapsLk
 
 So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr+Space = nbsp):
 
-<pre>´ ←→«»… ·—°™© 'π   ['ґ] (´ = &amp;#769;≡U+0301) 
+<pre>´ ←→«»… ·—°™© 'π   ['ґ] (´ = &amp;#769;≡U+0301)
   |&?:; /789* []\  [іїє]
   <>()_ =456- "
   ^@#$% 0123+</pre>
