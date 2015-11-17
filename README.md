@@ -34,7 +34,7 @@ So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr
 
 <!-- !,. good as is, ~`{}\[] no need in RU, șțăâîȘȚĂÂÎ ÄÖÜ ÁÓÉ ўЎ -->
 
-The aim of the AltGr layout is to keep away from the upper row... will see how it works...
+The aim of having the AltGr layout is to keep away from the upper row... will see how it works...
 
 ![Latin layout](https://github.com/georgiy-pruss/Keyboard/blob/master/K_LAT2015B.png)
 
