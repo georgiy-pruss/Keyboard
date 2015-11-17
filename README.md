@@ -11,7 +11,7 @@ K_CYR2015B.png ........... cyrillic layout image
 
 keyboard-remap.txt ........ definition of remapping  
 keyboard-remap.reg ....... reg file, just double-click it    
-mkmap.py ..................... keyboard-remap.txt --> keyboard-remap.reg  
+mkmap.py ....................... keyboard-remap.txt --> keyboard-remap.reg  
 scancodes1.html ............ backup of scancodes from www.computer-engineering.org
 
 The image below is edited to reflect the actual key mapping and layout. Physically no key were harmed :)
