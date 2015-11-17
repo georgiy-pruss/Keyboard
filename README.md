@@ -17,7 +17,7 @@ The image below is edited to reflect the actual key mapping and layout. Physical
 
 ![KB-6016-RUA-modified](https://github.com/georgiy-pruss/Keyboard/blob/master/KB-6016-RUA-mod.jpg)
 
-In this keyboard, not all three-key combinations work. For example LShift+CapsLk+F1,2,W,S,X,\\ don't produce any code. That is they must share the same wire inside, I think... Ah, aha... It's _keyboard ghosting_. So it's good again that I returned RShift (to RWin key). ...Well, 's' still stays mute with CapsLk and any of my shifts. So be it.
+In this keyboard, not all three-key combinations work. For example LShift+CapsLk+F1,2,W,S,X,\\ don't produce any code. That is they must share the same wire inside, I think... Ah, aha... It's _keyboard ghosting_. So it's good again that I returned RShift (to RWin key). ...Well, 's' still stays mute with CapsLk and any of my shifts. So be it. ...But Alt+Ctrl+Shift does work. Also is works in Skype! Not the easiest combination :)
 
 So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr+Space = nbsp):
 
@@ -26,9 +26,9 @@ So, the AltGr and AltGr+Shift layouts will be (RU variant in brackets; and AltGr
   <>()_ =456- "
   ^@#$% 0123+</pre>
 
-<pre>♥ ↑↵‹›§ •–ⁿ♂♀ Þß   [ÞҐ]  (– = ndash, not sure about ↵µ′″β‹›, they are not so important...)
+<pre>♥ ↑↵‹›§ •–ⁿ♂♀ Þß   [ÞҐ]  (– = ndash, not sure about ↵µ′″β‹›, not so important...)
   ↓µ′″β ÷√∞ə× äöü  [ІЇЄ] [áéóý instead of µ′″β]
-  ≡ ≤≥≠ ≈¼½¾– ☎          (– = real minus)
+  ≡☺≤≥≠ ≈¼½¾– ☎          (– = real minus)
   ¥¤£€¢ ₴¹²³±</pre>
 
 <!-- !,. good as is, ~`{}\[] no need in RU, șțăâîȘȚĂÂÎ ÄÖÜ ÁÓÉ ўЎ -->
