@@ -5,14 +5,14 @@ KB-6016-RUA.jpg ........... gembird keyboard
 KB-6016-RUA-mod.jpg ... gembird keyboard after KeyboardRemap.reg
 
 K_LAT2015B.klc .............. latin (english) layout, my own, the most optimal (made with genetic algorithms)  
-K_CYR2015B.klc ............. cyrillic (russian) layout, quite normal  
-K_LAT2015B.png ............. english layout image  
+K_CYR2015B.klc ............ cyrillic (russian) layout, quite normal  
+K_LAT2015B.png ............ english layout image  
 K_CYR2015B.png ........... cyrillic layout image  
 
-keyboard-remap.txt ....... definition of remapping  
-keyboard-remap.reg ...... reg file, just double-click it    
+keyboard-remap.txt ........ definition of remapping  
+keyboard-remap.reg ....... reg file, just double-click it    
 mkmap.py ..................... keyboard-remap.txt --> keyboard-remap.reg  
-scancodes1.html ........... backup of scancodes from www.computer-engineering.org
+scancodes1.html ............ backup of scancodes from www.computer-engineering.org
 
 The image below is edited to reflect the actual key mapping and layout. Physically no key were harmed :)
 
