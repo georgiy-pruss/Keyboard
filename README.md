@@ -46,3 +46,5 @@ Eng1.txt, Rus1.txt ...... source text for keyboards (English/Latin, Russian/Ukra
 eng1.png, eng1sym.png, rus1.png, rus1sym.png, altgr1.png ...... how the layouts look
 
 ![Latin layout](https://github.com/georgiy-pruss/Keyboard/blob/master/eng1.png)
+
+![Cyrillic layout](https://github.com/georgiy-pruss/Keyboard/blob/master/rus1.png)
