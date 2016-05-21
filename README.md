@@ -45,6 +45,10 @@ The aim of having the AltGr layout is to keep away from the upper row... will se
 Eng1.txt, Rus1.txt ...... source text for keyboards (English/Latin, Russian/Ukrainian/Cyrillic)  
 eng1.png, eng1sym.png, rus1.png, rus1sym.png, altgr1.png ...... how the layouts look
 
+The layouts are optimized to have nearly the same symbol positions in both Eng and Rus keyboards.  
+The keyboard program: https://play.google.com/store/apps/details?id=kl.ime.oh&hl=en  
+BTW you can enter diacritic symbols with the upper row in the AltGr layout. Very convenient!
+
 ![Latin layout](https://github.com/georgiy-pruss/Keyboard/blob/master/eng1.png)
 
 ![Cyrillic layout](https://github.com/georgiy-pruss/Keyboard/blob/master/rus1.png)
