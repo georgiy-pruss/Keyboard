@@ -43,6 +43,6 @@ The aim of having the AltGr layout is to keep away from the upper row... will se
 #Keyboard for Samsung Galaxy Note 5 (Android - Multiling O Keyboard)
 
 Eng1.txt, Rus1.txt ...... source text for keyboards (English/Latin, Russian/Ukrainian/Cyrillic)  
-Eng1.png, Eng1sym.png, Rus1.png, Rus1sym.png, AltGr1.png ...... how the layouts look
+eng1.png, eng1sym.png, rus1.png, rus1sym.png, altgr1.png ...... how the layouts look
 
-![Latin layout](https://github.com/georgiy-pruss/Keyboard/blob/master/Eng1.png)
+![Latin layout](https://github.com/georgiy-pruss/Keyboard/blob/master/eng1.png)
